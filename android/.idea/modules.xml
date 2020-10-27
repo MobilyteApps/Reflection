@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android.iml" filepath="$PROJECT_DIR$/.idea/modules/android.iml" group="android" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="android/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/906767097/connectivity.iml" filepath="$PROJECT_DIR$/.idea/modules/906767097/connectivity.iml" group="android/connectivity" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1904155451/fluttertoast.iml" filepath="$PROJECT_DIR$/.idea/modules/-1904155451/fluttertoast.iml" group="android/fluttertoast" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-55924091/path_provider.iml" filepath="$PROJECT_DIR$/.idea/modules/-55924091/path_provider.iml" group="android/path_provider" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2054689888/shared_preferences.iml" filepath="$PROJECT_DIR$/.idea/modules/2054689888/shared_preferences.iml" group="android/shared_preferences" />
+    </modules>
+  </component>
+</project>
